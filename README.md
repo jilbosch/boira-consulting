@@ -1,6 +1,6 @@
 # BOIRA-CONSULTING
 ## :eslabón: LINK
-https://ericpuig10.github.io/boira-consulting/
+https://github.com/jilbosch/boira-consulting.git
 ## :pergamino: BRIEFING
 This is my first project in the code world. Simple but i will always remember it for being my firsts steps. It's a simulation of a web page of a tecnologic consultory.
 ## :siluetas_de_bustos: TEAM
